@@ -3,8 +3,6 @@ Title: Beer Rater
 
 Author: Kyle Weidner
 
-Email: kweidne2@msudenver.edu
-
 Last Update: 12/06/2021
 
 # **Introduction**
